@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+!server/.env.example
+data/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+.playwright-cli/

@@ -1,0 +1,6 @@
+{
+  "name": "GameVerse",
+  "description": "Plataforma de descubrimiento, exploración y colección personal de videojuegos con autenticación segura y base de datos persistente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
